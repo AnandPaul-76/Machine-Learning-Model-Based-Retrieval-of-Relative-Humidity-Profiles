@@ -1,5 +1,5 @@
 ---
-title: "Mega-Tropiques AI Humidity Retrieval: Machine Learning Framework for SAPHIR Satellite Data"
+title: "Machine Learning Model-Based Retrieval of Relative Humidity Profiles Measured by SAPHIR onboard Megha-Tropiques Satellite"
 
 authors:
 - name: Nouduri Anand Paul

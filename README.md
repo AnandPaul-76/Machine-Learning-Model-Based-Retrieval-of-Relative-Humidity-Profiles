@@ -1,4 +1,4 @@
-# Mega-Tropiques AI Humidity Retrieval
+# Machine Learning Model-Based Retrieval of Relative Humidity Profiles Measured by SAPHIR onboard Megha-Tropiques Satellite
 
 An AI-based system for retrieving atmospheric relative humidity profiles from the ISRO Megha-Tropiques SAPHIR satellite.
 
