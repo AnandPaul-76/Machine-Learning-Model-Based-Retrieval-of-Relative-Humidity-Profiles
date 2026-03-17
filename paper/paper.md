@@ -5,7 +5,7 @@ authors:
 - name: Nouduri Anand Paul
   affiliation: 1
 
-- name: Dr. Subrahmanyam Kandula
+- name: Dr. Kandula V Subrahmanyam
   affiliation: 2
 
 affiliations:
