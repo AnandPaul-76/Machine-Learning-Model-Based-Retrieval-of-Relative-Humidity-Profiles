@@ -12,7 +12,7 @@ from tkinter import filedialog
 
 # ===================== CONFIG =====================
 """
-Mega-Tropiques AI Humidity Retrieval
+Megha-Tropiques AI Humidity Retrieval
 Streamlit interface for exploring SAPHIR satellite humidity retrieval.
 """
 

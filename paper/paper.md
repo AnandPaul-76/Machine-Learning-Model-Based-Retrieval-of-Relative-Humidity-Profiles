@@ -20,7 +20,7 @@ bibliography: paper.bib
 ---
 # Summary
 
-Mega-Tropiques AI Humidity Retrieval is a machine learning–based software system for estimating atmospheric relative humidity from satellite observations. The software processes brightness temperature measurements from the SAPHIR instrument onboard the Megha-Tropiques satellite mission and predicts humidity across multiple atmospheric layers.
+Megha-Tropiques AI Humidity Retrieval is a machine learning–based software system for estimating atmospheric relative humidity from satellite observations. The software processes brightness temperature measurements from the SAPHIR instrument onboard the Megha-Tropiques satellite mission and predicts humidity across multiple atmospheric layers.
 
 The system integrates satellite preprocessing, machine learning training, evaluation, and visualization tools into a unified workflow. Gradient boosted regression models implemented using LightGBM are trained to learn relationships between microwave radiometric observations and atmospheric humidity profiles.
 
